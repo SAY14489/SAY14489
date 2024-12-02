@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Yusuf.
+- 👋 Hi, I’m Yusuf
 - 👀 I’m interested in Coding and Mathematics 
-- 🌱 I’m currently learning C++ and javascript
-- 🏫 I'm a rising freshman at the University of Washington Paul Allen School
+- 🌱 I’m currently learning about Deep Learning, Compilers, and Verilog
+- 🏫 I'm a senior at the University of Washington Paul Allen School of Computer Science
 
 <!---
 SAY14489/SAY14489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
